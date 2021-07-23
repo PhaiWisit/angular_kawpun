@@ -1,0 +1,28 @@
+h1{font-size: 4vh;}
+h2{font-size: 3vh;}
+h3{font-size: 1vh;}
+h4{font-size: 2vh;}
+h5{font-size: 2vh;}
+h6 {
+  margin: 8px 0;
+}
+
+p {
+  margin: 0;
+}
+
+.spacer {
+  flex: 1;
+}
+
+.content {
+  font-size: 1vh;
+  display: flex;
+  margin: 82px auto 32px;
+  padding: 0 16px;
+  max-width: 960px;
+  flex-direction: column;
+  align-items: center;
+}
+
+
